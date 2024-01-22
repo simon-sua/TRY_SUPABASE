@@ -17,7 +17,6 @@ declare module 'vue' {
     RouterView: typeof import('vue-router')['RouterView']
     TheWelcome: typeof import('./src/components/TheWelcome.vue')['default']
     VarButton: typeof import('@varlet/ui')['_ButtonComponent']
-    VarCard: typeof import('@varlet/ui')['_CardComponent']
     VarInput: typeof import('@varlet/ui')['_InputComponent']
     VarTable: typeof import('@varlet/ui')['_TableComponent']
     WelcomeItem: typeof import('./src/components/WelcomeItem.vue')['default']
